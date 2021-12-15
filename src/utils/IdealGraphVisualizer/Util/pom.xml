@@ -64,7 +64,7 @@
         <dependency>
             <groupId>org.netbeans.api</groupId>
             <artifactId>org-netbeans-api-visual</artifactId>
-            <version>${netbeans.version}</version>
+            <version>RELEASE90</version>
         </dependency>
         <dependency>
             <groupId>org.netbeans.api</groupId>
